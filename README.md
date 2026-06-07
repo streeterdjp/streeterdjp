@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @streeterdjp
 - 👀 I’m interested in C, C++, Java & Python
-- 🌱 I’m currently learning Spring
 - 💞️ I’m not looking to collaborate on anything, yet!
 - 📫 How to reach me, david.streeter@btinternet.com
 
